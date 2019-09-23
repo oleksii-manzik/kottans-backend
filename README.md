@@ -4,7 +4,7 @@ Git is cool!
 
 ## Unix Shell
 ![shell1](task_unix_shell/shell1.png =250x250)
-
+<img src="task_unix_shell/shell1.png" width="100">
 ![shell2](task_unix_shell/shell2.png | width=100)
 
 ![shell3](task_unix_shell/shell3.png | width=100)
