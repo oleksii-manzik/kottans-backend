@@ -3,7 +3,7 @@
 Git is cool!
 
 ## Unix Shell
-![shell1](task_unix_shell/shell1.png =100x)
+![shell1](task_unix_shell/shell1.png)
 
 ![shell2](task_unix_shell/shell2.png =100x)
 
