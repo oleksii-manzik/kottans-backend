@@ -16,6 +16,10 @@ Shell is also cool! I will use it a lot in the future when I become web develope
 
 I like **_rebase_** command the most! It is the best!
 
+## Python Basics 1
+
+https://www.hackerrank.com/oleksii_manzik
+
 ## Memory Management
 
 1. Stack overflow.
