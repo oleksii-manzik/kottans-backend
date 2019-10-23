@@ -58,3 +58,11 @@ Stack - 7ffc136e8000-7ffc13709000
 MMS - 7fa500536000-7fa50071d000
 
 In this subject everything was new to me and hard to understand. But I think I get some basics.
+
+## TCP. UDP. Network
+
+<img src="task_networks/tcp_udp_network1.png" width="500" alt="tcp_udp_network1">
+<img src="task_networks/tcp_udp_network2.png" width="500" alt="tcp_udp_network2">
+
+Almost everything except some basic things was new to me. I think it is very important for web developer to know
+how Internet works. And I am happy that I know some basics now.
